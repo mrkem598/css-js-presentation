@@ -1,0 +1,58 @@
+.reveal blockquote {
+    box-shadow: none;
+}
+
+.reveal pre {
+    box-shadow: none;
+}
+
+.reveal .small {
+    font-size: 80%;
+}
+
+.reveal .pull-left {
+    float: left;
+}
+
+.reveal .pull-right {
+    float: right;
+}
+
+.resources li {
+    padding-bottom: 20px;
+}
+
+.resources .sub-item {
+    padding-left: 50px;
+    display: block;
+}
+
+.reveal .speakers {
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+
+.reveal .speaker {
+  float: left;
+  margin-left: 25px;
+  width: 150px;
+}
+
+.reveal .speaker.first {
+  margin-left: 55px;
+}
+
+.reveal .img-addition {
+  overflow: hidden;
+}
+
+.reveal .img-addition img {
+  width: auto;
+  height: 47px;
+}
+
+.reveal .img-addition p {
+  display: inline-block;
+  position: relative;
+  bottom: 25px;
+}

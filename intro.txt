@@ -1,0 +1,31 @@
+Introduction
+
+Thank you all for coming.
+
+In September I had the opportunitity to attend two frontend conferences in
+Berlin: CSS Conf EU and JS Conf EU.
+
+The first conference I attended was CSS Conf EU. It was a one day, single track
+conference and the first of its kind in the EU. There were 11 speakers and
+probably about 75 attendees.
+
+There aren't many conferences with CSS as the focus, and because the organizers
+did such an excellent job designing and running this conference, it was a rare
+treat. The talks were a good mix of what's coming, css experiments, security
+(yes, you heard that right), and best practices.
+
+Compared with CSS Conf, JS Conf felt huge. It was a two-day, two-track
+conference with about 300 attendees and speakers.
+
+It was an exciting and inspiring experience. I had the opportunity to see devs
+doing a lot of cool stuff, mostly with new APIs handed down to us from browser
+manufacturers and standards bodies.
+
+What follows are some of the talks I thought most important or inspiring. Let's
+get into it, shall we!
+
+
+
+Web Components
+
+Web components are some of the biggest additions coming to the web stack.
